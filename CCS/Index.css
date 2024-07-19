@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+* {
+    font-family: "Josefin Sans", sans-serif;
+
+}
+
+.header-hero-section {
+    background-image: url(../img/img1.png);
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.primary-bg {
+    background-color: #5956E9 !important;
+}
+
+.Aap-features {
+    background-image: url(../img/Aapfeatures.png);
+    background-size: cover;
+}
+
+
+.how-to-use {
+    background-image: url(../img/Rectangle15.png);
+    background-size: cover;
+    height: 450px;
+
+}
+
+.video-imge {
+    right: 25%;
+}
+
+.handel-h {
+    height: 700px;
+}
+
+
+
+.our-customer {
+    background-image: url("../img/Background-Image.png");
+    background-size: cover;
+    height: 750px;
+}
+
+.ann {
+    top: 59%;
+}
+
+.height {
+    height: 50%;
+}
+
+.bg-black {
+    background-image: url("./images/bg-black.png");
+    background-size: cover;
+    height: 40vh;
+}
+
+
+.telegram-logo {
+    background-color: #5956e9;
+    position: absolute;
+    padding: 7px 9px;
+    left: 227px;
+}
+
+.input {
+    position: relative;
+}
+
+.footer-bg {
+    background-image: url(../img/Rectangle\ 35.png);
+    background-size: cover;
+}
+
+.text-color{
+    color: rgb(77, 77, 247);
+}
